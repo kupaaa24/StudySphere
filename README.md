@@ -23,7 +23,7 @@ With StudySphere's diverse range of features, you can customize your learning ex
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/nisargaa20/Web_Weavers_W24.git
+1. Clone the repository: git clone 
 2. Install dependencies: npm install
 3. Start the development server: npm start
 
@@ -46,5 +46,3 @@ StudySphere is built using the following technologies:
 - *Firebase Authentication (User authentication)*: Providing secure authentication mechanisms for user login and registration.
 - *WebRTC*: Utilized for real-time communication in the video chat feature.
 
-### Website 
-To access the live website, visit https://nisargaa20.github.io/Elearning_Platform/
