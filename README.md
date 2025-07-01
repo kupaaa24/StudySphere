@@ -46,4 +46,4 @@ StudySphere is built using the following technologies:
 - *WebRTC*: Utilized for real-time communication in the video chat feature.
 
 ## you can review the project by following the link provided
-https://youtu.be/Zmd2YPIeVjY
+https://youtu.be/68Yz5fiWU4Y
