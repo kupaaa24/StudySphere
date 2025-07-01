@@ -40,11 +40,10 @@ StudySphere is built using the following technologies:
 - *CSS*: Utilized for styling the user interface components.
 - *JavaScript*: Employed for implementing dynamic functionality and interactions.
 - *React (Frontend)*: Used for implementing the frontend interface components, including chat and video chat functionalities.
-- *Node.js (Backend)*: Powering the backend server and handling server-side operations.
 - *MariaDB (Database)*: Storing and managing data related to courses, users, and interactions.
 - *Socket.io (Real-time communication)*: Enabling real-time chat and video chat functionalities for seamless communication.
 - *Firebase Authentication (User authentication)*: Providing secure authentication mechanisms for user login and registration.
 - *WebRTC*: Utilized for real-time communication in the video chat feature.
 
 ## you can review the project by following the link provided
-https://youtu.be/4YNuh9VrKts
+https://youtu.be/Zmd2YPIeVjY
